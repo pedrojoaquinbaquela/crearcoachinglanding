@@ -3,8 +3,9 @@ body{
 	font-family: 'Open Sans', sans-serif;
 
 }
+
 .logo{
-	width: 40px;
+	width: 100px;
 }
 
 .botonera li{
@@ -149,8 +150,18 @@ and (max-device-width : 736px) { }
 .social img{
 	width: 100%;
 }
-.botonera li a {
+header{
+	display: ;
+}
+.botonera {
     font-size: 13px;
+	display: none;
+	
+	justify-content: end;
+	
+}
+.logo{
+	width: 70px;
 }
 .nosotros{
 	height: 100%;
@@ -168,8 +179,8 @@ h1{
 footer{
 	padding-top: 10px;
 }
-.botonera{
+/*.botonera{
 	text-align: right;
 	justify-content: right;
 }
-}
+}*/
