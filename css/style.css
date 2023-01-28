@@ -84,6 +84,8 @@ h1{
 	text-align: center;
 	padding-top: 150px;
 	padding-bottom: 50px;
+	margin-bottom: 100px;
+	justify-content: center;
 }
 .servicios img{
 	width: 50%;
@@ -102,7 +104,12 @@ h1{
 	padding-top: 20px;
 
 }
+.images .img-empresa{
+	width: 60%;
+	height: 40%;
+}
 .social{
+	padding-top: 20px;
 	text-align: center;
 }
 .social img{
@@ -114,6 +121,7 @@ footer{
 	background: #757575;
 	height: 50vh;
 	padding-top: 30px;
+	margin-top: 50px;
 }
 footer h1{
 	text-align: center;
@@ -171,13 +179,21 @@ header{
 #home{
 	padding-top: 65px;
 }
-
+.images .img-empresa{
+	height: 74%;
+	width: 50%;
+}
 h1{
 	font-size: 30px;
 }
 
 footer{
-	padding-top: 10px;
+	padding-top: 100px;
+}
+
+.social{
+	margin-top: 100px;
+	padding-top: 20px;
 }
 /*.botonera{
 	text-align: right;
